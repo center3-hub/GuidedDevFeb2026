@@ -1,0 +1,20 @@
+{
+  "Name": "Yacht",
+  "Description": "",
+  "Maintainer": "Customer",
+  "Icon": "PHN2ZyBpZD0iQ29tcG9uZW50XzQwOF8zIiBkYXRhLW5hbWU9IkNvbXBvbmVudCA0MDgg4oCTIDMiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjM4IiBoZWlnaHQ9IjM4IiB2aWV3Qm94PSIwIDAgMzggMzgiPgogIDxyZWN0IGlkPSJSZWN0YW5nbGVfNjY2NCIgZGF0YS1uYW1lPSJSZWN0YW5nbGUgNjY2NCIgd2lkdGg9IjIxIiBoZWlnaHQ9IjYiIHRyYW5zZm9ybT0idHJhbnNsYXRlKDYgOCkiIGZpbGw9IiNmZmYiLz4KICA8cmVjdCBpZD0iUmVjdGFuZ2xlXzY2NjUiIGRhdGEtbmFtZT0iUmVjdGFuZ2xlIDY2NjUiIHdpZHRoPSIxNSIgaGVpZ2h0PSI2IiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgxNyAyMykiIGZpbGw9IiNmZmYiLz4KICA8cGF0aCBpZD0iUGF0aF83MjIxIiBkYXRhLW5hbWU9IlBhdGggNzIyMSIgZD0iTTk1Ni0zMS41aDEuNXY3aC0xNXY3SDk0NCIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoLTkyOCA0MykiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2ZmZiIgc3Ryb2tlLXdpZHRoPSIxIi8+CiAgPHJlY3QgaWQ9IlJlY3RhbmdsZV82NjY2IiBkYXRhLW5hbWU9IlJlY3RhbmdsZSA2NjY2IiB3aWR0aD0iMzgiIGhlaWdodD0iMzgiIGZpbGw9Im5vbmUiLz4KPC9zdmc+Cg==",
+  "IconName": "icon_16.svg",
+  "Color": "#4F43C2",
+  "Version": "",
+  "MarketplaceLink": "",
+  "HelpLink": "",
+  "OrderLink": "",
+  "SupportEmail": "",
+  "Code": "Yacht",
+  "Packages": [
+    {
+      "UId": "3c2a731f-d6f3-4f32-8d3d-9ab136873c34",
+      "Name": "Yacht"
+    }
+  ]
+}
