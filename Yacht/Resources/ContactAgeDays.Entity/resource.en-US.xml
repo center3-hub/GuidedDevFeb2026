@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="ContactAgeDays" />
+			<Item Name="Columns.AgeDays.Caption" Value="Age in days" />
+			<Item Name="Columns.BirthDate.Caption" Value="BirthDate" />
+			<Item Name="Columns.Contact.Caption" Value="Parent contact" />
+			<Item Name="Columns.Id.Caption" Value="Id" />
+			<Item Name="Columns.Name.Caption" Value="Name" />
+			<Item Name="EventsProcessSchema.Caption" Value="Business process" />
+		</Items>
+	</Group>
+</Resources>

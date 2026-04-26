@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Yacht" />
+			<Item Name="Columns.Comment.Caption" Value="Comment" />
+			<Item Name="Columns.DriveType.Caption" Value="Drive type" />
+			<Item Name="Columns.Manager.Caption" Value="Manager" />
+			<Item Name="Columns.Name.Caption" Value="Name" />
+			<Item Name="Columns.Number.Caption" Value="Number" />
+			<Item Name="Columns.PassengersNumber.Caption" Value="Passengers number" />
+			<Item Name="Columns.Price.Caption" Value="Price per day" />
+			<Item Name="Columns.Status.Caption" Value="Status" />
+		</Items>
+	</Group>
+</Resources>

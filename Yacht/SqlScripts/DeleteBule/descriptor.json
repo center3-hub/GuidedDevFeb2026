@@ -1,0 +1,11 @@
+﻿{
+  "SqlScript": {
+    "UId": "72cb73a8-3c07-0198-8b91-692051e8b92b",
+    "Name": "DeleteBule",
+    "DBEngineType": 0,
+    "InstallType": 2,
+    "ModifiedOnUtc": "\/Date(1777152267000)\/",
+    "BackwardCompatibilityConfirmed": false,
+    "DependsOn": []
+  }
+}
